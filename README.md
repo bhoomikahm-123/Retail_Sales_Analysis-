@@ -139,4 +139,4 @@ GROUP BY shift;
 ```
 🔗 Project File
 
-- [Download Excel file here]()
+- [Download SQL file here](Retai_sales.sql)
